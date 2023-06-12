@@ -16,6 +16,7 @@ tools:
   - 9a913cdee30e
   tool_panel_section_label: RNAseq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+
 - name: limma_voom
   owner: iuc
   revisions:
