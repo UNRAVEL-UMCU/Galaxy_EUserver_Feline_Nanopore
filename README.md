@@ -1,12 +1,13 @@
 # Galaxy_EUserver_Feline_Nanopore
 This github contains:
+* Nanopore workfow: 
+- a .ga file of the Nanopore analysis pathway
+- a .svg image of the workflow 
+- a .ga file of the alternative count analysis pathway
 
-Workflow 
-- Feline Nanopore analysis pathway 
-- Feline Nanopore alternate count-pathway 
-
-Rdata 
+* Rdata 
 - Rscripts created with Rstudio 
 
-Other
+* Other
 - Input files 
+
