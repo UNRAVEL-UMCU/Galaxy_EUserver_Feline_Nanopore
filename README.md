@@ -5,6 +5,7 @@ Nanopore workfow:
 - a .ga file of the Nanopore analysis pathway
 - a .svg image of the workflow 
 - a .ga file of the alternative count analysis pathway
+- Some example files. ([Galaxy](Galaxy)) 
 
 ## Overview of the project
 
