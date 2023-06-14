@@ -17,6 +17,13 @@ tools:
   tool_panel_section_label: RNAseq
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 
+- name: featurecounts
+  owner: iuc
+  revisions:
+  - 38b6d12edc68
+  tool_panel_section_label: RNAseq
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+
 - name: limma_voom
   owner: iuc
   revisions:
