@@ -3,7 +3,6 @@ This github contains:
 
 Nanopore workfow: 
 - A .ga file of the Nanopore promethION analysis pathway.
-- A .svg image of the workflow.
 - A .ga file of the Nanopore GridION analysis pathway.
 - Some example files. ([Galaxy](Galaxy)) 
 
