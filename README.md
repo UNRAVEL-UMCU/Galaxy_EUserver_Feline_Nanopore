@@ -17,5 +17,5 @@ The direct RNA-sequencing analysis workflow in Galaxy starts by uploading the ba
 * Limma-voom will then be used for the differential expression analysis. After this, the results will then be visualised through a heatmap and a volcano plot.
 
 For more information, please contact:
-Frank van Steenbeek https://www.uu.nl/medewerkers/FGvanSteenbeek.
-Magdalena Harakalova https://www.umcutrecht.nl/en/research/researchers/harakalova-magdalena-m.
+* Frank van Steenbeek https://www.uu.nl/medewerkers/FGvanSteenbeek.
+* Magdalena Harakalova https://www.umcutrecht.nl/en/research/researchers/harakalova-magdalena-m.
