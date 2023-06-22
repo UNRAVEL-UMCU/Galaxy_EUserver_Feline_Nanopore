@@ -4,7 +4,16 @@ This GitHub contains the following:
 Nanopore workflow: 
 - A .ga file of the Nanopore promethION analysis pathway.
 - A .ga file of the Nanopore GridION analysis pathway.
-- Some example files. ([Galaxy](Galaxy)) 
+- Some example files. ([Galaxy](Galaxy))
+
+Differential Expression: 
+- The output files of the limma-voom analysis
+
+Variant Calling: 
+- The VCF files on the output of SnpEff
+
+Transcript detection: 
+- The output merged file of StringTie
 
 ## Overview of the project
 
