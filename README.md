@@ -6,13 +6,18 @@ Nanopore workflow:
 - A .ga file of the Nanopore GridION analysis pathway.
 - Some example files. ([Galaxy](Galaxy))
 
+Sequencing Metrics: 
+- The PNG images of the outputs from MutliQC based on the sequencing metrics 
+
 Differential Expression: 
 - The output files of the limma-voom analysis
 
 Variant Calling: 
 - The VCF files on the output of SnpEff
+- The VCF files on the output of SnpEff based on HCM-specific genes
 
 Transcript detection: 
+- The output files of StringTie based on catID
 - The output merged file of StringTie
 
 ## Overview of the project
