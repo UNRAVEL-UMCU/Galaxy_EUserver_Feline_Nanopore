@@ -10,15 +10,12 @@ Sequencing Metrics:
 - The PNG images of the outputs from MutliQC based on the sequencing metrics 
 
 Differential Expression: 
-- The output files of the limma-voom analysis
+- The visual output files of the limma-voom analysis
 
 Variant Calling: 
-- The VCF files on the output of SnpEff
-- The VCF files on the output of SnpEff based on HCM-specific genes
-
-Transcript detection: 
-- The output files of StringTie based on catID
-- The output merged file of StringTie
+- An overview of the variants in excel format
+- An overview of the variants in PNG format
+- The HET/HOM/REF overview in PNG format 
 
 ## Overview of the project
 
