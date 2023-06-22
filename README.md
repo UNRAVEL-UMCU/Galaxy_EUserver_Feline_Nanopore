@@ -33,5 +33,3 @@ The direct RNA-sequencing analysis workflow in Galaxy starts by uploading the ba
 For more information, please contact:
 * Frank van Steenbeek https://www.uu.nl/medewerkers/FGvanSteenbeek.
 * Magdalena Harakalova https://www.umcutrecht.nl/en/research/researchers/harakalova-magdalena-m.
-
-### Workflow Overview
